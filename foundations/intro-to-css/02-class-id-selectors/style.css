@@ -1,0 +1,29 @@
+.num{
+    background-color: rgb(248, 152, 152);
+}
+
+.one{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+}
+
+.two{
+    font-size: 36px;
+    color: blue;
+}
+
+.three{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+}
+
+#four{
+    background-color: rgb(168, 240, 168);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.five{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+}
